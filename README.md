@@ -1,7 +1,7 @@
-# aws-php-apache-configs
-ebextensions for elasticbeanstalk - environment PHP
+# aws-apache-configs
+ebextensions for elasticbeanstalk - environment
 
-Some of my configurations to work with elasticbeanstalk in PHP environment.
+Some of my configurations to work with elasticbeanstalk.
 
 # 1 - Prefork MPM
 
